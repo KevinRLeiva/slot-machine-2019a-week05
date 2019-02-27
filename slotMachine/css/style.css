@@ -1,0 +1,38 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background-image: url(../img/yumeko.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h2, h3{
+  color: white;
+}
+section{
+  height: 141px;
+  width: 100%;
+  float: left;
+  margin-top: 101px;
+}
+span{
+  background: rgba(0,0,0,0.7);
+  color: red;
+  font-size: 50px;
+  float: left;
+  margin-left: 297px;
+}
+button{
+  float: left;
+  background: red;
+  color: black;
+  font-size: 19px;
+  margin-left: 8px;
+}
+h1{
+  background: rgba(0,0,0,0.7);
+  float: left;
+  margin-left: 485px;
+  font-size: 58px;
+  color: red;
+}
